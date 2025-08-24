@@ -6,7 +6,7 @@ Remote-first. Building systems that turn **complexity into clarity.**
 ---
 
 ## 🔧 Projects
-- 📱 **PullSheet** → Field diagnostics & workflow automation for trades  
+- 📱 [PullSheet.app](https://pullsheet.app) → Field diagnostics & workflow automation for trades  
 - 🎓 **Smartprentice** → Next-gen apprenticeship training & simulations  
 - 🤖 **Mesh Agent** → Intent-driven AI agent framework (multi-provider)  
 - 📊 **Ups & Downs** → Stock intelligence + market signals  
